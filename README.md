@@ -1,6 +1,6 @@
 # Birthdays Android App
 
-Learn how to insert, remove and update query in database. 
+I was learning how to insert, remove and update query in database. I just forked it for my learning perposes. Based on this tutorial my project ~ https://gitlab.com/android-practice1/sql-read-write
 
 
 **Topics:**
@@ -9,7 +9,6 @@ Learn how to insert, remove and update query in database.
     - Update 
     - Remove 
  2. Listview 
- 3. 
 
 **Screenshot:**
 
